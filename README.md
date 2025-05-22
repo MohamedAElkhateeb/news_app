@@ -9,8 +9,6 @@ A sleek and modern mobile application for browsing the latest news from various 
 - 🗞️ **Latest news** from multiple reliable sources  
 - 📂 **Categorized articles** (Technology, Sports, Business, etc.)  
 - 🔍 **Search functionality** to find specific news  
-- ⭐ **Save favorites** for later reading  
-- 🌙 **Light & Dark mode support**  
 - 📱 **Responsive and user-friendly UI**
 
 ---
@@ -25,7 +23,7 @@ A sleek and modern mobile application for browsing the latest news from various 
 
 ## 🛠️ Built With
 
-- **Flutter** *(or React Native / Kotlin / Swift — specify as needed)*
+- **Flutter**
 - **REST APIs** (e.g. [NewsAPI.org](https://newsapi.org/))
 - **Material Design** or similar UI toolkit
 

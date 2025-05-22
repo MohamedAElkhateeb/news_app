@@ -70,6 +70,6 @@ This app uses the [NewsAPI.org](https://newsapi.org) to fetch real-time news dat
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo Video]([https://drive.google.com/file/d/your-video-id/view?usp=sharing](https://drive.google.com/file/d/1v91x_bikREpvi6bj9QEAVnPvrrWDX_Qb/view?usp=drive_link))
+👉 [Watch Demo Video]([https://drive.google.com/file/d/your-video-id/view?usp=sharing](https://drive.google.com/file/d/1v91x_bikREpvi6bj9QEAVnPvrrWDX_Qb/view?usp=drive_link)
 
 

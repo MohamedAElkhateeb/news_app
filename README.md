@@ -17,11 +17,6 @@ The News App is a beautifully designed mobile application that allows users to e
 - **📂 Category Browsing**  
   Easily filter news by categories like Technology, Business, Sports, Entertainment, and more.
 
-- **❤️ Save & Read Later**  
-  Add your favorite articles to a saved list for later reading, with persistent storage via Firebase.
-
-
-
 - **📱 Responsive UI**  
   Modern and clean interface optimized for all screen sizes using `flutter_screenutil`.
 
@@ -75,6 +70,6 @@ This app uses the [NewsAPI.org](https://newsapi.org) to fetch real-time news dat
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo Video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
+👉 [Watch Demo Video]([https://drive.google.com/file/d/your-video-id/view?usp=sharing](https://drive.google.com/file/d/1v91x_bikREpvi6bj9QEAVnPvrrWDX_Qb/view?usp=drive_link))
 
 

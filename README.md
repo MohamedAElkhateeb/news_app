@@ -20,8 +20,7 @@ The News App is a beautifully designed mobile application that allows users to e
 - **❤️ Save & Read Later**  
   Add your favorite articles to a saved list for later reading, with persistent storage via Firebase.
 
-- **🌙 Light & Dark Mode**  
-  Switch between light and dark themes to suit your preference or environment.
+
 
 - **📱 Responsive UI**  
   Modern and clean interface optimized for all screen sizes using `flutter_screenutil`.
@@ -32,7 +31,6 @@ The News App is a beautifully designed mobile application that allows users to e
 
 - **Clean Architecture** with feature-based folder structure  
 - **MVVM Pattern** for scalable code organization  
-- **BLoC / Cubit** for reactive state management
 
 ---
 
@@ -61,22 +59,6 @@ flutter run
 
 ---
 
-## 🔥 Firebase Setup
-
-This project integrates with **Firebase Firestore** to store user preferences and favorite articles.
-
-Make sure to:
-
-- Create a Firebase project  
-- Add `google-services.json` (Android) or `GoogleService-Info.plist` (iOS)  
-- Then run:
-
-```bash
-flutterfire configure
-```
-
----
-
 ## 🌐 API Integration
 
 This app uses the [NewsAPI.org](https://newsapi.org) to fetch real-time news data including:
@@ -95,16 +77,4 @@ This app uses the [NewsAPI.org](https://newsapi.org) to fetch real-time news dat
 
 👉 [Watch Demo Video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
 
----
 
-## 📄 License
-
-This project is licensed under the **[MIT License](LICENSE)**.
-
----
-
-## ⭐ Support
-
-If you find this project useful, please consider giving it a ⭐ on GitHub — it really helps!
-
----

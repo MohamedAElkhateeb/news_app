@@ -57,3 +57,67 @@ flutter pub get
 
 # Run the app
 flutter run
+```
+
+---
+
+## 🔥 Firebase Setup
+
+This project integrates with **Firebase Firestore** to store user preferences and favorite articles.
+
+Make sure to:
+
+- Create a Firebase project  
+- Add `google-services.json` (Android) or `GoogleService-Info.plist` (iOS)  
+- Then run:
+
+```bash
+flutterfire configure
+```
+
+---
+
+## 🌐 API Integration
+
+This app uses the [NewsAPI.org](https://newsapi.org) to fetch real-time news data including:
+
+- 📰 Headlines  
+- 📝 Descriptions  
+- 🖼️ Images  
+- 📅 Publication dates  
+- 🏷️ Source info
+
+---
+
+## 📱 Screenshots
+
+| Home | Article | Favorites |
+|------|---------|-----------|
+| ![Home](assets/screenshots/home.png) | ![Article](assets/screenshots/article.png) | ![Favorites](assets/screenshots/favorites.png) |
+
+---
+
+## 🎥 Demo Video
+
+👉 [Watch Demo Video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
+
+---
+
+## 👨‍💻 Contributors
+
+- **Your Name** • [@your-github](https://github.com/your-github)  
+- _(Add more contributors as needed)_
+
+---
+
+## 📄 License
+
+This project is licensed under the **[MIT License](LICENSE)**.
+
+---
+
+## ⭐ Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub — it really helps!
+
+---

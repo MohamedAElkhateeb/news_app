@@ -57,18 +57,3 @@ flutter pub get
 
 # Run the app
 flutter run
-## 🔥 Firebase Setup
-#This project integrates with Firebase Firestore to store user preferences and favorite articles.
-
-Make sure to:
-
-Create a Firebase project
-
-Add google-services.json (Android) or GoogleService-Info.plist (iOS)
-
-Then run:
-
-bash
-Copy
-Edit
-flutterfire configure
